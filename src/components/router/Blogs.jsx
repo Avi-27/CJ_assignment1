@@ -7,7 +7,7 @@ const Blogs = () => {
 
     <h1>Blog Articles</h1>
     
-    <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae laboriosam eaque in, nobis eligendi molestias nihil tempore fugiat quo porro, ad illo placeat architecto? Architecto vitae, sequi corrupti eaque deserunt animi debitis natus corporis alias!
+    <p> Lorem  hiiihoyg iufyugytyugugiyu uyh huobuioiu io hiuhiu889899898989889dolor sit amet consectetur, adipisicing elit. Quae laboriosam eaque in, nobis eligendi molestias nihil tempore fugiat quo porro, ad illo placeat architecto? Architecto vitae, sequi corrupti eaque deserunt animi debitis natus corporis alias!
     </p>
     
     </div>
